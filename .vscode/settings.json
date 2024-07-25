@@ -1,0 +1,6 @@
+{
+    "workbench.editor.splitSizing": "auto",
+    "workbench.editor.autoLockGroups": {
+        "jupyter-notebook": true
+    }
+}
